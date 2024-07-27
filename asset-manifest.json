@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Prashant9192/flight-ticket-for-visa.git/static/css/main.ddd43870.css",
+    "main.js": "/Prashant9192/flight-ticket-for-visa.git/static/js/main.7eff2d64.js",
+    "static/media/worldMap.png": "/Prashant9192/flight-ticket-for-visa.git/static/media/worldMap.3c5472ebfd040b6ad21a.png",
+    "static/media/ot.png": "/Prashant9192/flight-ticket-for-visa.git/static/media/ot.10bdd1ee8801ef5f62d1.png",
+    "static/media/mobile.png": "/Prashant9192/flight-ticket-for-visa.git/static/media/mobile.1d7a26358bfc09b6cc06.png",
+    "static/media/tickets.png": "/Prashant9192/flight-ticket-for-visa.git/static/media/tickets.bccc3e73504fa199c340.png",
+    "static/media/payment.png": "/Prashant9192/flight-ticket-for-visa.git/static/media/payment.28f544785d765840beaa.png",
+    "static/media/badge.png": "/Prashant9192/flight-ticket-for-visa.git/static/media/badge.0d8f36f3458f326f2ea4.png",
+    "static/media/bill.png": "/Prashant9192/flight-ticket-for-visa.git/static/media/bill.9bcd759f329d4d62f64a.png",
+    "static/media/earth.png": "/Prashant9192/flight-ticket-for-visa.git/static/media/earth.5d5846240f26cdb00973.png",
+    "static/media/csupport.png": "/Prashant9192/flight-ticket-for-visa.git/static/media/csupport.7b7b2483de6e59d31128.png",
+    "static/media/blueBox.png": "/Prashant9192/flight-ticket-for-visa.git/static/media/blueBox.0ec176ee639f651b5dc0.png",
+    "index.html": "/Prashant9192/flight-ticket-for-visa.git/index.html",
+    "main.ddd43870.css.map": "/Prashant9192/flight-ticket-for-visa.git/static/css/main.ddd43870.css.map",
+    "main.7eff2d64.js.map": "/Prashant9192/flight-ticket-for-visa.git/static/js/main.7eff2d64.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ddd43870.css",
+    "static/js/main.7eff2d64.js"
+  ]
+}
