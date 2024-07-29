@@ -1,23 +1,31 @@
 {
   "files": {
-    "main.css": "/Prashant9192/flight-ticket-for-visa.git/static/css/main.ddd43870.css",
-    "main.js": "/Prashant9192/flight-ticket-for-visa.git/static/js/main.7eff2d64.js",
-    "static/media/worldMap.png": "/Prashant9192/flight-ticket-for-visa.git/static/media/worldMap.3c5472ebfd040b6ad21a.png",
-    "static/media/ot.png": "/Prashant9192/flight-ticket-for-visa.git/static/media/ot.10bdd1ee8801ef5f62d1.png",
-    "static/media/mobile.png": "/Prashant9192/flight-ticket-for-visa.git/static/media/mobile.1d7a26358bfc09b6cc06.png",
-    "static/media/tickets.png": "/Prashant9192/flight-ticket-for-visa.git/static/media/tickets.bccc3e73504fa199c340.png",
-    "static/media/payment.png": "/Prashant9192/flight-ticket-for-visa.git/static/media/payment.28f544785d765840beaa.png",
-    "static/media/badge.png": "/Prashant9192/flight-ticket-for-visa.git/static/media/badge.0d8f36f3458f326f2ea4.png",
-    "static/media/bill.png": "/Prashant9192/flight-ticket-for-visa.git/static/media/bill.9bcd759f329d4d62f64a.png",
-    "static/media/earth.png": "/Prashant9192/flight-ticket-for-visa.git/static/media/earth.5d5846240f26cdb00973.png",
-    "static/media/csupport.png": "/Prashant9192/flight-ticket-for-visa.git/static/media/csupport.7b7b2483de6e59d31128.png",
-    "static/media/blueBox.png": "/Prashant9192/flight-ticket-for-visa.git/static/media/blueBox.0ec176ee639f651b5dc0.png",
-    "index.html": "/Prashant9192/flight-ticket-for-visa.git/index.html",
-    "main.ddd43870.css.map": "/Prashant9192/flight-ticket-for-visa.git/static/css/main.ddd43870.css.map",
-    "main.7eff2d64.js.map": "/Prashant9192/flight-ticket-for-visa.git/static/js/main.7eff2d64.js.map"
+    "main.css": "/Prashant9192/flight-ticket-for-visa/static/css/main.e8916382.css",
+    "main.js": "/Prashant9192/flight-ticket-for-visa/static/js/main.39025685.js",
+    "static/media/worldMap.png": "/Prashant9192/flight-ticket-for-visa/static/media/worldMap.3c5472ebfd040b6ad21a.png",
+    "static/media/img1.png": "/Prashant9192/flight-ticket-for-visa/static/media/img1.8c049e29dbf06eddb61c.png",
+    "static/media/ot.png": "/Prashant9192/flight-ticket-for-visa/static/media/ot.10bdd1ee8801ef5f62d1.png",
+    "static/media/img3.png": "/Prashant9192/flight-ticket-for-visa/static/media/img3.135a0448bf7da0e4a274.png",
+    "static/media/img2.png": "/Prashant9192/flight-ticket-for-visa/static/media/img2.9afc244e31d89cf45c54.png",
+    "static/media/FAQ.png": "/Prashant9192/flight-ticket-for-visa/static/media/FAQ.928435d43c36ab673dd4.png",
+    "static/media/mobile.png": "/Prashant9192/flight-ticket-for-visa/static/media/mobile.1d7a26358bfc09b6cc06.png",
+    "static/media/tickets.png": "/Prashant9192/flight-ticket-for-visa/static/media/tickets.bccc3e73504fa199c340.png",
+    "static/media/payment.png": "/Prashant9192/flight-ticket-for-visa/static/media/payment.28f544785d765840beaa.png",
+    "static/media/badge.png": "/Prashant9192/flight-ticket-for-visa/static/media/badge.0d8f36f3458f326f2ea4.png",
+    "static/media/bill.png": "/Prashant9192/flight-ticket-for-visa/static/media/bill.9bcd759f329d4d62f64a.png",
+    "static/media/step3.png": "/Prashant9192/flight-ticket-for-visa/static/media/step3.c26877eb1a807b724d98.png",
+    "static/media/step1.png": "/Prashant9192/flight-ticket-for-visa/static/media/step1.d91c3cb3458dd86c352a.png",
+    "static/media/earth.png": "/Prashant9192/flight-ticket-for-visa/static/media/earth.5d5846240f26cdb00973.png",
+    "static/media/step2.png": "/Prashant9192/flight-ticket-for-visa/static/media/step2.1ac01112b1c4261022ab.png",
+    "static/media/csupport.png": "/Prashant9192/flight-ticket-for-visa/static/media/csupport.7b7b2483de6e59d31128.png",
+    "static/media/nextStep.png": "/Prashant9192/flight-ticket-for-visa/static/media/nextStep.42bad92e9d487b2c849c.png",
+    "static/media/blueBox.png": "/Prashant9192/flight-ticket-for-visa/static/media/blueBox.0ec176ee639f651b5dc0.png",
+    "index.html": "/Prashant9192/flight-ticket-for-visa/index.html",
+    "main.e8916382.css.map": "/Prashant9192/flight-ticket-for-visa/static/css/main.e8916382.css.map",
+    "main.39025685.js.map": "/Prashant9192/flight-ticket-for-visa/static/js/main.39025685.js.map"
   },
   "entrypoints": [
-    "static/css/main.ddd43870.css",
-    "static/js/main.7eff2d64.js"
+    "static/css/main.e8916382.css",
+    "static/js/main.39025685.js"
   ]
 }
